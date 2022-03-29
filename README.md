@@ -4,7 +4,7 @@ a z/VM tool to view spool files dynamicly
 To install SFLIST, first grap the SFLPACK VMARC file from this repository, and upload it to CMS, using binary fied 80 transfer setting.
 Then just unpack it using the CMS VMARC command, and you should then be ready to go.
 
-An overfiew of SFLIST is:
+An overview of SFLIST is
   Spool File List                                                               
                                                                               
 The Spool File List Tool (SFList) is intended to make life easier             
